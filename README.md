@@ -11,7 +11,6 @@ Afet durumlarında (deprem, sel, yangın vb.) hasar tespiti ve lojistik planlama
 ---
 
 ## 👥 Takım Üyeleri
-Proje, her biri kendi alanında uzmanlaşan dinamik bir ekip tarafından yürütülmektedir:
 
 | Görev | Ad Soyad |
 | :--- | :--- |
