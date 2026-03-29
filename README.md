@@ -1,4 +1,4 @@
-# 🛰️ Team ASTRA: Afet Yönetiminde Yerli Uydu Verisi Entegrasyonu
+# ✨ Team ASTRA: Afet Yönetiminde Yerli Uydu Verisi Entegrasyonu
 
 Bu proje, afet sonrası müdahale süreçlerini hızlandırmak ve kurtarma ekiplerine güvenli bir yol haritası sunmak amacıyla geliştirilen, **yerli uydu verilerini yapay zeka ile analiz eden** bir karar destek sistemidir.
 
